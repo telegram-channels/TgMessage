@@ -11,7 +11,7 @@ class Bot
     // chat_id sign key
     private string $key;
     //Bot Token
-    private string $token;
+    private string $token = "7108873990:AAE24F3IzohYP5WCgKlFWJze-wJGUXnzEAU";
 
     public function __construct()
     {
